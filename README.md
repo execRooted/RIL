@@ -6,16 +6,20 @@ RIL is a simple command-line tool for Linux that allows you to rename files and 
 
 **Clone the repo:**
 
-```git clone https://github.com/execRooted/RIL.git```
-
-```cd RIL ```
+```bash
+git clone https://github.com/execRooted/RIL.git
+```
+```
+cd RIL
+```
 
 **Run the installer:**
-
-``` chmod +x installer.sh ```
-
-``` sudo ./installer.sh ```
-
+```
+chmod +x installer.sh 
+```
+```
+sudo ./installer.sh
+```
 *This will:*
 
 - Publish the app
@@ -30,10 +34,12 @@ RIL is a simple command-line tool for Linux that allows you to rename files and 
 ---
 
 ## Uninstallation
-
-``` chmod +x uninstaller.sh ```
-
-``` sudo ./uninstaller.sh ```
+```
+chmod +x uninstaller.sh 
+```
+```
+sudo ./uninstaller.sh 
+```
 
 *This will remove the program from /usr/local/bin/RIL/ren*
 
@@ -41,12 +47,18 @@ RIL is a simple command-line tool for Linux that allows you to rename files and 
 
 ## Usage
 
-  ren originalName newName   Rename a file or folder
-  ren -h | --help                            Show this help message
+ # RIL - Rename In Linux
+
+| Command                     | Description                  |
+|-----------------------------|-----------------------------|
+| `ren <originalName> <newName>` | Rename a file or folder     |
+| `ren -h` / `ren --help`       | Show this help message      |
 
 **Examples:**
-  ren oldfile.txt newfile.txt
-  ren oldFolder newFolder
+
+`ren oldfile.txt newfile.txt` <br>
+`ren oldFolder newFolder`
+
 
 ---
 
