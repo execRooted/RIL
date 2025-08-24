@@ -52,7 +52,7 @@ sudo ./uninstaller.sh
 | Command                     | Description                  |
 |-----------------------------|-----------------------------|
 | `ren <originalName> <newName>` | Rename a file or folder     |
-| `ren -h` / `ren --help`       | Show this help message      |
+| `ren -h` / `ren --help`       | Show the help message      |
 
 **Examples:**
 
