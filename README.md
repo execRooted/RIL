@@ -1,6 +1,6 @@
 # RIL (Rename in Linux)
 
-RIL is a simple command-line tool for Linux that allows you to rename files and directories easily using a single command. Made for windows weebs who apparently can't remember that they can use mv.
+RIL is a simple command-line tool for Linux, and probably the most *stupid and useless* thing that I could do, that allows you to rename files and directories easily using a single command. Made for windows weebs who apparently can't remember that they can use mv.
 
 ## Installation
 
