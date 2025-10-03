@@ -63,5 +63,5 @@ sudo ./uninstaller.sh
 ---
 
 ***Made by execRooted***
-(*You can take and modify the code, but give me credit for it*)
+
 
